@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Low_Poly_Survival/Scenes/Showcase.unity
+    guid: 3e0abf75efe2ff54690cfab2e7de11bb
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 92ce42688fbe14de48acc9526ef6fc63, type: 2}
